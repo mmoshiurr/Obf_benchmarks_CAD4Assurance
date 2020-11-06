@@ -1,6 +1,3 @@
-
-
-
 # Introduction
 This repository contains logic locked benchmarks that are being locked using sequential obfuscation technique. `If you use the benchmarks for your reseach, please refer to [1] which describes the basic of the locking algorithm`.
 
@@ -11,6 +8,8 @@ This repository contains logic locked benchmarks that are being locked using seq
 
 # Contact
 For any question or concerns, feel free to reach out to
+
 Md Moshiur Rahman
+
 Email : rahman.m@ufl.edu
 
