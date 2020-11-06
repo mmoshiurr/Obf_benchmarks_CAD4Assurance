@@ -6,6 +6,7 @@ This repository contains logic locked benchmarks that are being locked using seq
 
 # Structure of the repo
 ./benchmarks/*  --> Obfuscated versions of gate-level netlists of MIT CEP IPs [2].
+
 ./lib/*         --> Standard cell library files
 
 # Contact
