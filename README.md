@@ -2,7 +2,7 @@
 
 
 # Introduction
-This repository contains logic locked benchmarks that are being locked using sequential obfuscation technique. - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `If you use the benchmarks for your reseach, please refer to [1] which describes the basic of the locking algorithm`.
+This repository contains logic locked benchmarks that are being locked using sequential obfuscation technique. `If you use the benchmarks for your reseach, please refer to [1] which describes the basic of the locking algorithm`.
 
 # Structure of the repo
 ./benchmarks/*  --> Obfuscated versions of gate-level netlists of MIT CEP IPs [2].
