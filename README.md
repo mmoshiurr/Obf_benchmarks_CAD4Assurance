@@ -9,6 +9,8 @@ This repository contains logic locked benchmarks that are being locked using seq
 # References
 1. Chakraborty, Rajat Subhra, and Swarup Bhunia. "HARPOON: an obfuscation-based SoC design methodology for hardware protection." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 28.10 (2009): 1493-1502.
 
+2.Common Evaluation Platform (CEP), [Online: https://github.com/mit-ll/CEP]
+
 # Contact
 For any question or concerns, feel free to reach out to
 
